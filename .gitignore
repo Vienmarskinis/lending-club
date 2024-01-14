@@ -1,0 +1,7 @@
+venv/
+__py*
+*.csv
+*.parquet
+*.joblib
+*.pkl
+*.json
