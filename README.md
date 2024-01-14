@@ -15,7 +15,9 @@ Also, there has been models deployed on the Google Cloud. Refer to step6 noteboo
 
 ## Introduction
 
-Before me I have two big datasets, containing information about accepted and rejected loans. I have been tasked with a few main goals:
+Before me I have two big datasets, containing information about accepted and rejected loans. You can download the dataset [here](https://storage.googleapis.com/335-lending-club/lending-club.zip). 
+
+I have been tasked with a few main goals:
 - Create an accepted/rejected loan classification model, test and deploy.
 - Create grade, subgrade, interest rate prediction models, test and deploy.
 
