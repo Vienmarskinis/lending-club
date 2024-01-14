@@ -1,5 +1,3 @@
-# Module 3: Machine Learning
-
 ## Lending Club
 
 ### Author: Tomas Balsevičius
